@@ -15,11 +15,7 @@
  <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816779&from=wnel">请点击在线观看</a> <br/>
     </tr>
   <tr>
-      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E1.jpg"/></td>
-  </tr>
-  <tr>
-        <td align=center>
- 如打开慢，缓冲稍等或刷新<br/>
+      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
    </tr>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/10%E5%B9%B4.JPG" /></td>
@@ -44,6 +40,7 @@
   <td align=center>
 微信如果提示：停止访问该网页<br/>
 请点击右上角，选择浏览器打开<br/>
+苹果用户复制到自带浏览器打开<br/>
 如打开慢，缓冲稍等或刷新<br/>
    </tr>
   <tr>
@@ -101,6 +98,7 @@
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">大陆请点击进入动态网址</a><br/>
 微信如果提示：停止访问该网页<br/>
 请点击右上角，选择浏览器打开<br/>
+苹果用户复制到自带浏览器打开<br/>
     </td>
   </tr>
   <tr>
@@ -118,6 +116,9 @@
   </tr>
   <tr>
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%971.jpg"/></td>
+  </tr>
+  <tr>
+      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
   </tr>
   <tr>
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E.jpg"/></td>
