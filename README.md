@@ -9,7 +9,7 @@ https://chrome.cn.uptodown.com/android <br/>
 ◆国产浏览器干扰浏览，请卸载<br/>
 ◆2017国人翻墙最人气软件网门<br/>
 ◆网门安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
-◆下载网门安卓版更快更方便<br/>
+◆下载网门安卓版：更快更方便<br/>
   </tr>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E7%8B%AC%E5%AE%B6.jpg" /></td>
